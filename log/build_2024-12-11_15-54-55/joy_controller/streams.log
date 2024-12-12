@@ -1,0 +1,30 @@
+[0.510s] Invoking command in '/home/keisoku/ros2_ws/src/joy_controller': PYTHONPATH=/home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/joy_controller build --build-base /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build install --record /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/install.log --single-version-externally-managed install_data
+[0.621s] /home/keisoku/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.621s]   warnings.warn(msg)
+[0.693s] running egg_info
+[0.705s] writing build/joy_controller/joy_controller.egg-info/PKG-INFO
+[0.705s] writing dependency_links to build/joy_controller/joy_controller.egg-info/dependency_links.txt
+[0.705s] writing entry points to build/joy_controller/joy_controller.egg-info/entry_points.txt
+[0.706s] writing requirements to build/joy_controller/joy_controller.egg-info/requires.txt
+[0.706s] writing top-level names to build/joy_controller/joy_controller.egg-info/top_level.txt
+[0.730s] reading manifest file 'build/joy_controller/joy_controller.egg-info/SOURCES.txt'
+[0.731s] writing manifest file 'build/joy_controller/joy_controller.egg-info/SOURCES.txt'
+[0.731s] running build
+[0.731s] running build_py
+[0.731s] copying joy_controller/__init__.py -> /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller
+[0.731s] copying joy_controller/controller_joy.py -> /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller
+[0.731s] copying joy_controller/joy_controller_node.py -> /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller
+[0.732s] running install
+[0.735s] running install_lib
+[0.747s] copying /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller/joy_controller_node.py -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller
+[0.747s] byte-compiling /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller/joy_controller_node.py to joy_controller_node.cpython-310.pyc
+[0.748s] running install_data
+[0.748s] copying resource/joy_controller -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/share/ament_index/resource_index/packages
+[0.748s] copying package.xml -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/share/joy_controller
+[0.748s] running install_egg_info
+[0.760s] removing '/home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.761s] Copying build/joy_controller/joy_controller.egg-info to /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller-0.0.0-py3.10.egg-info
+[0.761s] running install_scripts
+[0.856s] Installing joy_controller_node script to /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/joy_controller
+[0.857s] writing list of installed files to '/home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/install.log'
+[0.871s] Invoked command in '/home/keisoku/ros2_ws/src/joy_controller' returned '0': PYTHONPATH=/home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/joy_controller build --build-base /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build install --record /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/install.log --single-version-externally-managed install_data

@@ -1,0 +1,38 @@
+[0.502s] Invoking command in '/home/keisoku/ros2_ws/src/joy_controller': PYTHONPATH=/home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/joy_controller build --build-base /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build install --record /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/install.log --single-version-externally-managed install_data
+[0.619s] /home/keisoku/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.619s]   warnings.warn(msg)
+[0.691s] running egg_info
+[0.702s] creating build/joy_controller/joy_controller.egg-info
+[0.702s] writing build/joy_controller/joy_controller.egg-info/PKG-INFO
+[0.702s] writing dependency_links to build/joy_controller/joy_controller.egg-info/dependency_links.txt
+[0.702s] writing entry points to build/joy_controller/joy_controller.egg-info/entry_points.txt
+[0.703s] writing requirements to build/joy_controller/joy_controller.egg-info/requires.txt
+[0.703s] writing top-level names to build/joy_controller/joy_controller.egg-info/top_level.txt
+[0.703s] writing manifest file 'build/joy_controller/joy_controller.egg-info/SOURCES.txt'
+[0.726s] reading manifest file 'build/joy_controller/joy_controller.egg-info/SOURCES.txt'
+[0.727s] writing manifest file 'build/joy_controller/joy_controller.egg-info/SOURCES.txt'
+[0.727s] running build
+[0.727s] running build_py
+[0.727s] creating /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller
+[0.728s] copying joy_controller/__init__.py -> /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller
+[0.728s] copying joy_controller/controller_joy.py -> /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller
+[0.728s] copying joy_controller/joy_controller_node.py -> /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller
+[0.728s] running install
+[0.731s] running install_lib
+[0.743s] creating /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller
+[0.743s] copying /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller/__init__.py -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller
+[0.743s] copying /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller/controller_joy.py -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller
+[0.743s] copying /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build/lib/joy_controller/joy_controller_node.py -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller
+[0.744s] byte-compiling /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller/__init__.py to __init__.cpython-310.pyc
+[0.744s] byte-compiling /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller/controller_joy.py to controller_joy.cpython-310.pyc
+[0.744s] byte-compiling /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller/joy_controller_node.py to joy_controller_node.cpython-310.pyc
+[0.744s] running install_data
+[0.745s] creating /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/share/ament_index/resource_index/packages
+[0.745s] copying resource/joy_controller -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/share/ament_index/resource_index/packages
+[0.745s] copying package.xml -> /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/share/joy_controller
+[0.745s] running install_egg_info
+[0.757s] Copying build/joy_controller/joy_controller.egg-info to /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages/joy_controller-0.0.0-py3.10.egg-info
+[0.758s] running install_scripts
+[0.853s] Installing joy_controller_node script to /home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/joy_controller
+[0.853s] writing list of installed files to '/home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/install.log'
+[0.868s] Invoked command in '/home/keisoku/ros2_ws/src/joy_controller' returned '0': PYTHONPATH=/home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/keisoku/ros2_ws/src/joy_controller/install/joy_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/joy_controller build --build-base /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/build install --record /home/keisoku/ros2_ws/src/joy_controller/build/joy_controller/install.log --single-version-externally-managed install_data

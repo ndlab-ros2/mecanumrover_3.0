@@ -1,0 +1,2 @@
+[console_scripts]
+joy_controller_node = joy_controller.joy_controller_node:main
